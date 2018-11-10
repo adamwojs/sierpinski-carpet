@@ -5,5 +5,5 @@ Project archive: Simple application to drawing sierpinski carpet. Written in 200
 Application screenshot: 
 
 
-![Application screenshot](https://dl.dropboxusercontent.com/u/435780/dywan.png "Application screenshot")
+![Application screenshot](http://files.wojs.pl/index.php/13860bde-e502-11e8-ad91-e83935af80c7/sierpinski-carpet.png "Application screenshot")
 
